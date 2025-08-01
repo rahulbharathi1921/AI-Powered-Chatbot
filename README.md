@@ -5,13 +5,12 @@
 This is a modern AI-powered chatbot built using Flutter and Google's Gemini API, designed with a scalable MNC-style project structure.
 It supports Markdown responses, a typing indicator, and an interactive chat UI similar to professional messaging apps.
 
+
 🚀 Features
 
 🔹 Google Gemini API Integration – AI-powered intelligent responses
 
 🔹 Clean Architecture – Organized into model, services, and ui
-
-🔹 Interactive AppBar – Shows bot status (Online / Typing)
 
 🔹 Markdown Rendering – Supports tables, lists, and formatted text
 
@@ -20,16 +19,6 @@ It supports Markdown responses, a typing indicator, and an interactive chat UI s
 🔹 Offline-ready Structure – Easy to switch to rule-based or hybrid chatbot
 
 
-📂 Project Structure
-
-lib/
- ├── model/
- │     └── message.dart
- ├── services/
- │     └── api_service.dart
- ├── ui/
- │     └── chat_screen.dart
- └── main.dart
  
 🛠️ Prerequisites
 
@@ -114,6 +103,9 @@ UI renders formatted text with a typing effect
 🔹 Enable Voice input/output
 
 🔹 Add Dark Mode
+
+Screenshots:
+<img width="679" height="881" alt="image" src="https://github.com/user-attachments/assets/69a00f87-1917-4dc6-8f39-6880689d3d6b" />
 
 
 🤝 Contributing
